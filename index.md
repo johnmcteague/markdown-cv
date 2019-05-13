@@ -6,12 +6,14 @@ title: John McTeague
 
 <div id="webaddress">
 <i class="far fa-envelope"></i> <a href="mailto:john@mcteague.co.uk">john@mcteague.co.uk</a>
-| <i class="fab fa-github"></i> <a href="http://github.com/johnmcteague">http://github.com/johnmcteague</a> | 
+| <i class="fab fa-github"></i> <a href="http://github.com/johnmcteague">http://github.com/johnmcteague</a> <br/>
 <i class="fas fa-mobile-alt"></i> +447775732391
 | <i class="fas fa-map-marker-alt"></i> Glasgow, Scotland
 
 </div>
 <br/>
+
+## Summary
 Technology leader with 18+ years experience currently focused on cloud enablement with the ability to establish partnerships across organizational boundaries, build high performing teams and deliver high quality product aligned to business objectives in challenging and complex environments.
 
 Considered a strong technology and business partner who builds trust and leads by example to achieve goals, mentors and grows talent to build talented, sustainable teams and maintain a high standard of technical excellence both personally and within my teams. 
